@@ -1,0 +1,13 @@
+{
+  "name": "PolymerMap",
+  "description": "",
+  "homepage": "",
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "paper-elements": "Polymer/paper-elements#latest",
+    "google-map": "GoogleWebComponents/google-map#~0.4.1"
+  }
+}
